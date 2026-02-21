@@ -16,7 +16,7 @@
       "id": "2",
       "connectionType": "Non Metered",
       "subType": "NA",
-      "connectionSize": "0.75",
+      "connectionSize": "0.75", 
       "charges": 3750,
 	  "serviceCharges": 5,
       "formCharges": 50,
